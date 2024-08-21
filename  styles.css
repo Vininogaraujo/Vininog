@@ -1,0 +1,29 @@
+body {
+    color: brown;
+    background-color: aqua;
+    margin: 0px;
+
+}
+
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+     font-size: 32px;
+     color:rgb(42, 122, 228);
+
+}
+
+secretion{
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+div {
+    margin-right: 20px;
+}
+
+
